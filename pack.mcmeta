@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": "ゲーミング怪しげな砂と砂利",
+    "supported_formats": {"min_inclusive": 15, "max_inclusive": 40}
+  }
+}
